@@ -10,6 +10,7 @@
   "description": "",
   "dependencies": {
     "flowbite": "^2.5.1",
+    "monaco-editor": "^0.51.0",
     "portfoliowebsiteremake": "file:"
   },
   "devDependencies": {
